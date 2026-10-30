@@ -22,9 +22,10 @@ CampusNotes is a simple student notes management project designed to help studen
 CampusNotes/
 ├── .gitignore
 ├── README.md
-├── aditya.py
+├── HOW_TO_USE.md
 ├── clone-test.txt
 ├── notes.txt
+├── study-tips.txt
 └── subjects.txt
 ```
 
@@ -33,13 +34,13 @@ CampusNotes/
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adityachauhan921161-svg/-vcs-campusnotes-2581075.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd CampusNotes
+   cd -vcs-campusnotes-2581075
    ```
 
 3. Explore the project files and README documentation.
@@ -54,7 +55,3 @@ CampusNotes/
 ## Developer
 
 Aditya Chauhan
-
-## Documentation Contribution
-
-README documentation improvements contributed by Yuvraj Gora.
