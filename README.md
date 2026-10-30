@@ -1,34 +1,60 @@
-\# CampusNotes
 
+# CampusNotes
 
+CampusNotes is a simple student notes management project designed to help students organize their academic materials efficiently.
 
-CampusNotes is a simple student notes management project.
+## Features
 
+- Store academic notes
+- Organize notes by subject
+- Manage study materials
+- Keep notes organized
 
+## Technologies
 
-\## Features
+- Git
+- GitHub
+- Markdown
 
-\- Store academic notes
+## Project Structure
 
-\- Organize notes by subject
+```text
+CampusNotes/
+├── .gitignore
+├── README.md
+├── aditya.py
+├── clone-test.txt
+├── notes.txt
+└── subjects.txt
+```
 
-\- Manage study materials
+## Getting Started
 
-\- Keep notes organized
+1. Clone the repository:
 
+   ```bash
+   git clone <repository-url>
+   ```
 
+2. Navigate to the project directory:
 
-\## Technologies
+   ```bash
+   cd CampusNotes
+   ```
 
-\- Git
+3. Explore the project files and README documentation.
 
-\- GitHub
+## Contribution Guidelines
 
-\- Markdown
+- Create a separate feature branch for every improvement.
+- Use meaningful commit messages.
+- Test changes before submitting a pull request.
+- Keep project documentation updated.
 
-
-
-\## Developer
+## Developer
 
 Aditya Chauhan
 
+## Documentation Contribution
+
+README documentation improvements contributed by Yuvraj Gora.
