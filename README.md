@@ -8,6 +8,8 @@ CampusNotes is a simple student notes management project.
 
 \## Features
 
+
+
 \- Store academic notes
 
 \- Organize notes by subject
@@ -20,6 +22,8 @@ CampusNotes is a simple student notes management project.
 
 \## Technologies
 
+
+
 \- Git
 
 \- GitHub
@@ -29,6 +33,8 @@ CampusNotes is a simple student notes management project.
 
 
 \## Developer
+
+
 
 Aditya Chauhan
 
