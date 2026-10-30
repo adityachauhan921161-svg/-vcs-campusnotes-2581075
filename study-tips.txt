@@ -1,7 +1,12 @@
-Campus Notes - Study Tips
+CampusNotes - Study Tips
 
+DAILY PLANNING
 1. Create a daily study schedule.
-2. Revise important topics regularly.
-3. Practice programming questions.
+2. Take short breaks while studying.
+
+REVISION
+3. Revise important topics regularly.
 4. Organize notes by subject.
-5. Take short breaks while studying.
+
+PROGRAMMING PRACTICE
+5. Practice programming questions.
